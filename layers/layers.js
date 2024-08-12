@@ -127,7 +127,7 @@ lyr_ATCCType2_4.set('fieldAliases', {'Sl.No': 'Sl.No', 'ATCC ID': 'ATCC ID', 'De
 lyr_TIDS_5.set('fieldAliases', {'Sl.No': 'Sl.No', 'Latitude': 'Latitude', 'Longitude': 'Longitude', 'Location D': 'Location D', });
 lyr_SLVD_6.set('fieldAliases', {'Sl.No': 'Sl.No', 'Latitude': 'Latitude', 'Longitude': 'Longitude', 'Location D': 'Location D', });
 lyr_RLVD_7.set('fieldAliases', {'Sl.No': 'Sl.No', 'Location N': 'Location N', 'Latitude': 'Latitude', 'Longitude': 'Longitude', 'Corridors': 'Corridors', });
-lyr_ATCS_1.set('fieldImages', {'Sl.No': '', 'Location N': '', 'Latitude': '', 'Longitude': '', 'Corridors': '', 'Intersecti': '', });
+lyr_ATCS_1.set('fieldImages', {'Sl.No': 'TextEdit', 'Location N': 'TextEdit', 'Latitude': 'TextEdit', 'Longitude': 'TextEdit', 'Corridors': 'TextEdit', 'Intersecti': 'TextEdit', });
 lyr_VMS_2.set('fieldImages', {'Sl.No': '', 'Latitude': '', 'Longitude': '', 'Location D': '', });
 lyr_ATCCType1_3.set('fieldImages', {'Sl.No': '', 'ATCC ID': '', 'Device ID': '', 'Latitude': '', 'Longitude': '', 'Location D': '', });
 lyr_ATCCType2_4.set('fieldImages', {'Sl.No': '', 'ATCC ID': '', 'Device ID': '', 'Latitude': '', 'Longitude': '', 'Location D': '', });
